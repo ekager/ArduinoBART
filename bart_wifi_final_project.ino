@@ -18,13 +18,9 @@ Adafruit_SSD1306 display = Adafruit_SSD1306();
 // How many NeoPixels are attached to the Arduino?
 #define NUMPIXELS      8
 
-// SSID + Passwords
-//const char* ssid     = "Mills-Guest";
-//const char* password = "Breaking_Barrier$!";
-// Home wifi network
 // Insert Wifi Network Here!
-const char* ssid = "NS-B338-2.4";
-const char* password = "Wasnotwas1";
+const char* ssid = "wifi_network_name";
+const char* password = "wifi_password";
 
 // the BART API host
 const char* BARThost = "api.bart.gov";
