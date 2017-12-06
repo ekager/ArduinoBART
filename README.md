@@ -4,6 +4,9 @@ Adafruit Feather Huzzah Real-Time BART Display
 # Summary
 A small device that uses Wi-Fi to query the BART API and display the next trains for your desired routes. 
 
+# See it in action!
+https://twitter.com/EmilyKager/status/938109723626283008
+
 # Materials
 Main processor - Adafruit Feather Huzzah ($16.95 x 1 https://www.adafruit.com/product/2821)
 
@@ -28,6 +31,10 @@ FeatherWing OLED - 128x32 OLED ($14.95 x 1 https://www.adafruit.com/product/2900
 6. Button allows user to quickly scroll through stations
 7. Long press button allows you to switch to your other tracked station
 
+# Layout
+![Layout](https://github.com/ekager/ArduinoBART/blob/master/breadboard_image.jpg)
 
-# See it in action!
-https://twitter.com/EmilyKager/status/938109723626283008
+plus the added FeatherWing OLED on top of the Huzzah.
+
+# Thanks
+Image (and teaching) credit to [Zach Radding](http://www.buildcoolstuff.com/)
